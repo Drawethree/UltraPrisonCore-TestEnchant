@@ -9,7 +9,7 @@ import org.bukkit.inventory.ItemStack;
 import java.util.concurrent.ThreadLocalRandom;
 
 /**
- * Class name of your custom enchant. When creating custom enchants please make sure that your class extends 'UltraPrisonEnchantment'
+ * Class representing your custom enchant. When creating custom enchants please make sure that your class extends 'UltraPrisonEnchantment'
  */
 public class TestEnchant extends UltraPrisonEnchantment {
 
