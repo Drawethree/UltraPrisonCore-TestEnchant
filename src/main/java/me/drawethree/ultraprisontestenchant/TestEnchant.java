@@ -11,7 +11,7 @@ import java.util.concurrent.ThreadLocalRandom;
 /**
  * Class representing your custom enchant. When creating custom enchants please make sure that your class extends 'UltraPrisonEnchantment'
  */
-public class TestEnchant extends UltraPrisonEnchantment {
+public final class TestEnchant extends UltraPrisonEnchantment {
 
     /**
      * Class attribute chance - Represent the chance of triggering the enchant
