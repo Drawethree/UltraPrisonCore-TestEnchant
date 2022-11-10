@@ -1,5 +1,6 @@
 # UltraPrisonCore-TestEnchant
 Example of creating Custom Enchants for UltraPrisonCore v1.1.24 and above.
+You need to add the UltraPrisonCore.jar into your classpath!
 
 ## Common Issues
 
